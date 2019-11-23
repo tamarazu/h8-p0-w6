@@ -1,0 +1,33 @@
+body {
+	position: relative;
+	margin: 50px;
+    padding: 9px;
+    height: auto;
+    width: auto;
+    background-color: #bd9642 ;
+}
+
+div {
+	background-color: #feae01;
+}
+
+header {
+	text-align: center;
+	font-family: Calistoga;
+	font-size: 24px;
+	color: #fb183e;
+}
+
+form {
+	text-align: center;
+	font-family: Patua One;
+}
+
+input {
+	width: 240px;
+}
+
+#submit {
+	width: 140px;
+	font-family: Patua One;
+}
